@@ -62,4 +62,5 @@ Developed by: Monisha.S RegisterNumber:25017984
 
 
 **RESULTS**
-Thus the SISO Shift Register using verilog and validating their functionality using their functional tables is implemented and verified.
+
+ Thus the SISO Shift Register using verilog and validating their functionality using their functional tables is implemented and verified.
